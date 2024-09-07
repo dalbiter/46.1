@@ -40,3 +40,7 @@
 .read-the-docs {
   color: #888;
 }
+
+.App nav a{
+  margin: 20px;
+}
